@@ -1,7 +1,20 @@
-# AdventureWorks_Cycles-Excel-SQL-PowerBI-Tableau
-This is an end-to-end data analytics project focused on analyzing sales data using Excel, SQL, Power BI, and Tableau to generate meaningful business insights.
+# AdventureWorks Sales Data Analysis (Excel | SQL | Power BI | Tableau)
 
-🛠 Tools Used: I used these recommended and Learned Tools for this end to end Project.
+This is an end-to-end sales data analytics project where I analyzed sales data using Excel, SQL, Power BI, and Tableau to generate meaningful business insights and recommendations.
+
+
+🛠 ## Tools & Technologies Used: I used these recommended and Learned Tools for this end to end Project.
+    
+    - Microsoft Excel (Data cleaning, merging, transformation, Pivot Tables, KPIs, Dashboard)
+
+    - MySQL (Database creation, data loading, SQL analysis)
+    
+    - Power BI Desktop (Dashboard creation and data visualization)
+    
+    - Tableau Public (Charts and dashboard)
+    
+    - PowerPoint (Insights, recommendations, and conclusions)
+
 
 
 📊 Microsoft Excel  (Data cleaning,Data Merging, transformation,PivotTables, Charts, Slicers, KPIs, Dashboard)  
