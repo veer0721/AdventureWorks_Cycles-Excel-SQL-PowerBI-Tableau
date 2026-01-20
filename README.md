@@ -3,6 +3,7 @@ This is an end-to-end data analytics project focused on analyzing sales data usi
 
 🛠 Tools Used: I used these recommended and Learned Tools for this end to end Project.
 
+
 📊 Microsoft Excel  (Data cleaning,Data Merging, transformation,PivotTables, Charts, Slicers, KPIs, Dashboard)  
 
   📌 Connected multiple Excel workbooks using Power Query Editor
@@ -16,6 +17,7 @@ This is an end-to-end data analytics project focused on analyzing sales data usi
   📌 Created pivot tables and charts to analyze key metrics
   
   📌 Designed an Excel dashboard to present sales insights clearly
+
 
 
 📊 MySQL (Database Creation, Data Loading, Solving Queries & Analysis)
@@ -36,6 +38,7 @@ This is an end-to-end data analytics project focused on analyzing sales data usi
 
 
 
+
 📊 Power BI Desktop (Interactive dashboards)
 
   📌 Connected Power BI Desktop to the MySQL database using the MySQL connector
@@ -50,6 +53,7 @@ This is an end-to-end data analytics project focused on analyzing sales data usi
 
   
 
+
 📊 Tableau Public (Data visualization)
 
   
@@ -63,7 +67,7 @@ This is an end-to-end data analytics project focused on analyzing sales data usi
 
 
 
-PowerPoint (Business insights & recommendations)
+📊 PowerPoint (Business insights & recommendations)
 
   
   📌 Prepared a presentation using screenshots of charts and dashboards created in Excel, Power BI, and Tableau
