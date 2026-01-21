@@ -95,4 +95,6 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
 
 
 
+Note; Some files and datasets are uploaded here in other formats and some files are missing too but its just for its authenticity.
+
 
